@@ -1,3 +1,17 @@
+print()
+print("-------------------------------------")
+print("Created by Muhamad Ferdiansyah - 2020")
+print("-------------------------------------")
+print("Lenteng Agung Coding")
+print("-------------------------------------")
+print("Notes : Abaikan angka 36")
+print("-------------------------------------")
+print()
+print("----------------")
+print("Waiting Dlu Gays")
+print("----------------")
+print()
+
 # Import Packages
 import pandas as pd
 import requests
@@ -27,7 +41,9 @@ AC = df.loc[(df['Country,Other'] == 'Indonesia'), ['ActiveCases']].fillna(0)
 SC = df.loc[(df['Country,Other'] == 'Indonesia'), ['Serious,Critical']].fillna(0)
 
 import time
+
 ticks = time.asctime( time.localtime(time.time()) )
+print("Info Update Corona Covid-19")
 print("Waktu saat ini:", ticks)
 
 print()
