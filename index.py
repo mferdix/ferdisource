@@ -5,9 +5,7 @@ print("----------------------------------------------------------------------")
 print(" Analisis Pertumbuhan Kasus Covid-19 Indonesia by Jalan Gedong Coding ")
 print("----------------------------------------------------------------------")
 
-
-tanya = 'y'
-while(tanya == 'y') :
+while(true) :
         print(" ")
         print("----------------")
         print("Waiting Dlu Gays")
