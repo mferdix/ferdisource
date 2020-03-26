@@ -5,9 +5,9 @@ print("----------------------------------------------------------------------")
 print(" Analisis Pertumbuhan Kasus Covid-19 Indonesia by Jalan Gedong Coding ")
 print("----------------------------------------------------------------------")
 
-ulang = true
+ulang = 1
 
-while(ulang == true) :
+while(ulang > 0) :
         print(" ")
         print("----------------")
         print("Waiting Dlu Gays")
@@ -53,7 +53,7 @@ while(ulang == true) :
         print(TR)
         print(AC)
         print(SC)
-        tanya = input("Ulang Perhitungan atau tidak (y/n) : ")
+        tanya = raw_input("Ulang Perhitungan atau tidak (y/n) : ")
         if (tanya == 'n'):
             break
 
