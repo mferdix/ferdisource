@@ -4,7 +4,7 @@ Thanks for Downloading my projects
 
 <hr>
 
-<h1>#Installing if using Ubuntu System</h1>
+<h1>#Installing if using Ubuntu/Mac System</h1>
 <ul>
   <li>Open Terminal and type <b>#su</b> to get root access</li>
   <li>
@@ -50,3 +50,8 @@ Thanks for Downloading my projects
 <hr>
 
 <h3>Thanks for Using my Script and sorry for bad english language :v</h3>
+<p>notes: if you want running in Termux app, just install Package like ubuntu system
+  change <b>#sudo apt-get</b> to <b>pkg</b>
+  example : <b>pkg install python3</b>
+  
+  maybe it's works on Termux Android App</p>
