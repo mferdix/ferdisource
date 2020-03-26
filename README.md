@@ -41,4 +41,4 @@ Thanks for Downloading my projects
 
 <hr>
 
-<h1>Thanks for Using my Script and sorry for bad english language :v</h1>
+<h3>Thanks for Using my Script and sorry for bad english language :v</h3>
