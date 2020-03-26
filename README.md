@@ -38,6 +38,14 @@ Thanks for Downloading my projects
 
 <h1>#Installing if using Windows System</h1>
 <p>Just Install Python on <a href="https://www.python.org/downloads/">Python Website</a> and running on <b>IDLE Python</b> App or Command Promp</p>
+<p>Installing Python Library like on ubuntu System in your Command Promp
+  <ul>
+        <li>pip install pandas</li>
+        <li>pip install lxml</li>
+        <li>pip install bs4</li>
+        <li>pip install requests</li>
+      </ul>
+      </p>
 
 <hr>
 
