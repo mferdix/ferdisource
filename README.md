@@ -51,7 +51,7 @@ Thanks for Downloading my projects
 
 <h3>Thanks for Using my Script and sorry for bad english language :v</h3>
 <p>notes: if you want running in Termux app, just install Package like ubuntu system
-  change <b>#sudo apt-get</b> to <b>pkg</b>
+  change <b>#sudo apt-get</b> to <b>pkg</b><br>
   example : <b>pkg install python3</b>
   
   maybe it's works on Termux Android App</p>
