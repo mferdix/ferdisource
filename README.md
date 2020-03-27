@@ -4,6 +4,8 @@ Thanks for Downloading my projects
 
 <hr>
 
+<p> Note : I Recommend using Python3 to use this program </p>
+
 <h1>#Installing if using Ubuntu/Mac System</h1>
 <ul>
   <li>Open Terminal and type <b>#su</b> to get root access</li>
