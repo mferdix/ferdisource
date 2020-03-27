@@ -29,4 +29,4 @@ echo "================="
 echo "   Game Start   "
 echo "================"
 
-python index.py
+python3 index.py
