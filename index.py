@@ -53,7 +53,7 @@ while(ulang > 0) :
         print(TR)
         print(AC)
         print(SC)
-        tanya = raw_input("Ulang Perhitungan atau tidak (y/n) : ")
+        tanya = input("Ulang Perhitungan atau tidak (y/n) : ")
         if (tanya == 'n'):
             break
 
