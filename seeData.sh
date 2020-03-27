@@ -25,7 +25,7 @@ echo "==============================="
   pip3 install bs4
   pip3 install requests
 
-echo "================="
+echo "================"
 echo "   Game Start   "
 echo "================"
 
