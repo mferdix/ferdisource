@@ -10,17 +10,7 @@ Thanks for Downloading my projects
   <li>
       Just Installing this Package
       <ul>
-        <li>#sudo apt-get install python3</li>
         <li>#sudo apt-get install git</li>
-      </ul>
-  </li>
-  <li>
-      and then Installing this package library of Python3
-      <ul>
-        <li>#pip install pandas</li>
-        <li>#pip install lxml</li>
-        <li>#pip install bs4</li>
-        <li>#pip install requests</li>
       </ul>
   </li>
   <li>
@@ -29,10 +19,12 @@ Thanks for Downloading my projects
       And Then type <b>#cd ferdisource</b>
   </li>
   <li>
-      and the last, type <b>#python index.py</b>
+      and the last, type <b>#sh seeData.sh</b>
   </li>
   
 </ul>
+
+<p>Notes : if you want to reopen the program but have installed all applications via the file "seeData.sh", you can type <b>#python index.py</b> in the terminal</p>
 
 <hr>
 
