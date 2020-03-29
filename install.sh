@@ -2,13 +2,13 @@ echo "========================"
 echo "   Installing Python3   "
 echo "========================"
 
-  sudo apt-get install python3
+  apt install python3
 
 echo "============================"
 echo "   Installing PIP Python3   "
 echo "============================"
 
-  sudo apt-get install python3-pip
+  apt install python3-pip
 
 echo "==================="
 echo "   Upgrading PIP   "
