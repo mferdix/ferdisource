@@ -1,3 +1,5 @@
+import requests
+        
 print(" ")
 print("----------------------------------------------------------------------")
 print("                   Created by Muhamad Ferdiansyah - 2020              ")
@@ -15,6 +17,7 @@ while(ulang > 0) :
         print("Waiting Dlu Gays")
         print("----------------")
         print(" ")
+       
         
         res = requests.get('https://api.kawalcorona.com/indonesia')
         data = res.json()
