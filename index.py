@@ -29,7 +29,7 @@ while(ulang > 0) :
         print("-------------------------------------")
         print("     Info Update Corona Covid-19     ")
         print("-------------------------------------")
-        print("Waktu saat ini:", ticks)
+        print("Waktu saat ini   :", ticks)
         print(" ")   
         
         
