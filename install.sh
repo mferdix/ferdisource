@@ -20,9 +20,11 @@ echo "==============================="
 echo "   Installing Python Library   "
 echo "==============================="
 
-  pip3 install pandas
   pip3 install lxml
   pip3 install bs4
+echo "==============="
+echo "   Sabar Cuy   "
+echo "==============="
   pip3 install requests
 
 echo "================"
